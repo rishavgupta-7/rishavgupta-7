@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishav Gupta</h1>
-<h3 align="center">Full-Stack MERN Developer | Backend-Focused | Real-Time Applications</h3>
+<h3 align="center">Full-Stack MERN Developer | Real-Time Applications | API Integration </h3>
 
 ---
 
