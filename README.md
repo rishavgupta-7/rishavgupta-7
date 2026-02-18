@@ -67,7 +67,7 @@ Git | GitHub | Render
 ## 📫 Connect With Me
 
 - 📧 Email: rishav.202204005@tulas.edu.in
-- 💼 LinkedIn: (Add your LinkedIn link here)
+- 💼 LinkedIn: https://www.linkedin.com/in/rishav-gupta-18378a390/
 
 
 ---
